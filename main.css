@@ -13,10 +13,15 @@ body {
     border: none; 
     color: #133A62;
     padding: 24px 48px;
+    transition: ease-in-out 500ms;
 }
 .header-button:hover {
     transition: ease-in-out 500ms;
     color: #426F9D;
     background-color: #133A62;
     cursor: pointer;
+}
+fieldset {
+    border: 2px solid #133A62;
+    font-size: xx-large;
 }
