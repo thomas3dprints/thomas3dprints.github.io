@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: none;
+    font-family: "Vidaloka", serif;
+    text-align: center;
+}
+#header-container {
+    width: 100%;
+    background-color: #426F9D;
+}
+.header-button {
+    background-color: #426F9D;
+    border: none; 
+    color: #133A62;
+    padding: 24px 48px;
+}
+.header-button:hover {
+    transition: ease-in-out 500ms;
+    color: #426F9D;
+    background-color: #133A62;
+    cursor: pointer;
+}
